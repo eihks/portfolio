@@ -1,0 +1,4 @@
+User-agent: googlebot
+Disallow: /ressources/
+Disallow: /style/
+Allow: /images/
